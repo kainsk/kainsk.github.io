@@ -160,7 +160,7 @@ h1.name {
 .cards {
 	max-width: 1120px;
 	display: block;
-	margin-top: 280px;
+	margin-top: 320px;
 }
 .card {
 	width: 47.9%;
@@ -182,7 +182,7 @@ h1.name {
 }
 .skill-level {
 	display: inline-block;
-	max-width: 160px;
+	max-width: 190px;
 }
 .skill-level span {
 	font-size: 35px;
